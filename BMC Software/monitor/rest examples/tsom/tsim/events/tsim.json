@@ -1,0 +1,23 @@
+[{
+	"eventSourceHostName": "host.local",
+	"attributes": {
+		"severity": "WARNING",
+		"CLASS": "EVENT",
+		"msg": "This event was created using the TSOM REST API",
+		"cdmclass": "BMC_ComputerSystem",
+		"componentalias": "BMC_ComputerSystem:host.local'",
+		"instancename": "host.local",
+		"itsm_product_name": "Control-M",
+		"mc_host": "host.local",
+		"mc_host_address": "a.b.c.d",
+		"mc_location": "",
+		"mc_object": "Job",
+		"mc_object_class": "Control-M",
+		"mc_origin": "Enterprise Manager",
+		"mc_origin_class": "Control-M",
+		"mc_tool_id": "epoch=1621631064.550844",
+		"mc_tool": "Python Script",
+		"mc_tool_rule": "uat.py",
+		"mc_tool_uri": "git.io"
+	}
+}]
